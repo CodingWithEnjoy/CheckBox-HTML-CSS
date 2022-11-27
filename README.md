@@ -1,6 +1,6 @@
 Preview | نتیجه ی کار 😊😉
 
-https://codingwithenjoy.github.io/Hover-HTML-CSS
+https://codingwithenjoy.github.io/CheckBox-HTML-CSS/
 
 اگه خوشتون اومد حتما پیج ما رو فالو کنید @codingwithenjoy
 
